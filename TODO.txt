@@ -1,0 +1,8 @@
+ - PlayerController
+  - Animation System
+  - Variable Jump Height
+  - Inerce
+  - Coyote Time
+  - Input Buffer
+  - Clamp fall speed
+  - Edge detection
